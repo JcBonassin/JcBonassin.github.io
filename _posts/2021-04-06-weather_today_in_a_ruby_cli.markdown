@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Weather Today in a Ruby CLI"
-date:       2021-04-06 14:00:07 +0000
+date:       2021-04-06 10:00:07 -0400
 permalink:  weather_today_in_a_ruby_cli
 ---
 
