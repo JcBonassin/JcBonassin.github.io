@@ -53,7 +53,7 @@ response = HTTParty.get("http://api.openweathermap.org/data/2.5/weather?q=#{loca
       @weather_today.location = data[:name]
 ```
 
-Once I located all data I needed for current weather and also forecast I started bulding my CLI. I wanted to ge the following results: 
+Once I located all data I needed for current weather and also forecast I started bulding my CLI. I wanted to get the following results: 
 
 - Check the current weather at current location and Forecast for the next 5 days 
 - Check the current weather and Forecast for the next 5 days at any city you name in the world plus a link to the city location on Google Maps. It only will work with city names. 
