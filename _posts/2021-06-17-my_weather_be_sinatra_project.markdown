@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "My Weather BE  Sinatra Project"
-date:       2021-06-17 13:27:53 +0000
+date:       2021-06-17 09:27:53 -0400
 permalink:  my_weather_be_sinatra_project
 ---
 
 
 As I like weather Stuff, my Sinatra project was an extension and improvement of my CLI Project. I kept working in refactoring the code and also adding some cool API's. 
 
-The scope was to create a good user experience and great look. So the app allows you to check the weather at your location and find and update to any other location in the world. Also give you News of the day and a gallery of photos from the city you are connected from. Once you Sign in and create an account you will be able to add different locations, modify and also delete them. 
+The scope was to create a good user experience and great look. So the app allows you to check the weather at your location and find and update to any other location in the world. Also give you News of the day and a gallery of photos from the city you are connected. Once you Sign in and create an account you will be able to add different locations, modify and also delete them. 
 
 [Check it out](https://github.com/JcBonassin/Weather_real) and have a look at the code. It might be fun.
 
